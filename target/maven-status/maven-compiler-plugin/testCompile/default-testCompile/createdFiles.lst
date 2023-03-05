@@ -1,0 +1,4 @@
+com\herokuapp\theinternet\LoginTests.class
+com\herokuapp\theinternet\PositiveTests.class
+com\herokuapp\theinternet\ExceptionsTest.class
+com\herokuapp\theinternet\NegativeTests.class
